@@ -1,2 +1,2 @@
 # Movie-App
-A Movie App that shows list of Trending movies,Series e.t.c
+A Movie App that shows list of Trending movies,Series.What a fun app to check out e.t.c
